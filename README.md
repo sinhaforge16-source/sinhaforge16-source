@@ -5,7 +5,7 @@
 
   <!-- Dynamic Animated Tagline -->
   <p align="center" style="margin-top: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=24&duration=3000&pause=1000&color=C5F200&center=true&vCenter=true&width=580&height=55&lines=The+Architecture+of+Digital+Elegance;Next-Gen+Web+Architecture;Bespoke+UI%2FUX+Experiences;Scalable+Web+Solutions" alt="SinhaForge Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=24&duration=3000&pause=1000&color=C5F200&center=true&vCenter=true&width=620&height=55&lines=The+Architecture+of+Digital+Elegance;Next-Gen+Web+%26+Mobile+Apps;Immersive+UI%2FUX+%26+3D+Design;High-Impact+Digital+Solutions" alt="SinhaForge Typing SVG" />
   </p>
 
   <!-- Interactive Ecosystem Badges -->
@@ -20,7 +20,7 @@
   </p>
 
   <p align="center" style="max-width: 650px; color: #a1a1aa; margin-top: 15px; font-size: 15px;">
-    Crafting high-performance digital architecture, bespoke UI/UX experiences, and scalable web solutions for modern brands.
+    Crafting high-performance digital architecture, immersive multi-platform experiences, and scalable solutions for modern brands.
   </p>
 
 </div>
@@ -29,9 +29,15 @@
 
 ### ⚡ **What We Do**
 
-- **🌐 Next-Gen Web Architecture:** Building hyper-fast, responsive web platforms engineered for speed, SEO, and seamless user journeys.
-- **🎨 UI/UX Craftsmanship:** Designing high-contrast, dark-mode focused interfaces with fluid micro-interactions.
-- **🛠 Systems & Solutions:** Delivering custom software solutions tailored to ambitious business goals.
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/🌐_Web_Development-000000?style=for-the-badge&logoColor=C5F200&color=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📱_Mobile_App_Development-000000?style=for-the-badge&logoColor=C5F200&color=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🎨_UI%2FUF_Design-000000?style=for-the-badge&logoColor=C5F200&color=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🧊_Low_Poly_3D_Design-000000?style=for-the-badge&logoColor=C5F200&color=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📱_Social_Media_Design-000000?style=for-the-badge&logoColor=C5F200&color=0d1117" /></a>
+
+</div>
 
 ---
 
@@ -41,9 +47,9 @@
 
 | Category | Technology / Tool | Description |
 | :--- | :--- | :--- |
-| **Frontend Framework** | `Next.js 16 (Turbopack)` / `React 19` | High-performance server and client rendering |
-| **Styling & UI** | `Tailwind CSS` / `Framer Motion` | Modern responsive styling and fluid animations |
-| **Typography** | `Plus Jakarta Sans` | Clean, geometric modern typography |
+| **Frontend & Mobile** | `Next.js 16` / `React 19` / `React Native` | High-performance web and cross-platform apps |
+| **Styling & Motion** | `Tailwind CSS` / `Framer Motion` | Modern styling and fluid micro-interactions |
+| **Design & 3D** | `Figma` / `Blender (Low Poly)` | Immersive UI/UX and custom 3D assets |
 | **Deployment & CI/CD** | `Vercel` / `GitHub Actions` | Edge deployment and automated pipelines |
 | **Version Control** | `Git (Branch-per-feature)` | Isolated, clean development workflow |
 
