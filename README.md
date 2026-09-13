@@ -3,9 +3,7 @@
   <!-- Cover Banner (cover.png in root folder) -->
   <img src="./cover.png" alt="SinhaForge Cover" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
-  <!-- Logo and Animated Tagline -->
-  <img src="./logo.png" alt="SinhaForge Logo" width="100" style="margin-bottom: 10px;" />
-  
+  <!-- Animated Tagline -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=22&duration=3000&pause=1000&color=C5F200&center=true&vCenter=true&width=580&height=45&lines=The+Architecture+of+Digital+Elegance;Next-Gen+Web+%26+Mobile+Apps;Immersive+UI%2FUX+%26+3D+Design;High-Impact+Digital+Solutions" alt="Typing SVG" />
   </p>
